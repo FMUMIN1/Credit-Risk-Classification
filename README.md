@@ -12,7 +12,8 @@ Supervised Machine Learning Model:
   * 0.9508986295555389: ![classification_report_1](https://github.com/FMUMIN1/Credit-Risk-Classification/assets/121820268/bd939872-094e-4232-ba33-7844d7d3c823)
 
 
-* ![classification_report_2](https://github.com/FMUMIN1/Credit-Risk-Classification/assets/121820268/438b0ac7-e017-4d03-8772-ee0b00b749d6)
-
+* Logistic Regression Model 2:
+  * 0.9944768245409253: ![classification_report_2](https://github.com/FMUMIN1/Credit-Risk-Classification/assets/121820268/438b0ac7-e017-4d03-8772-ee0b00b749d6)
+ 
 
 # SUMMARY
