@@ -16,3 +16,6 @@ Supervised Machine Learning Model:
  
 
 # SUMMARY
+The collected data proves effective for training and testing the Machine Learning Classification Model. To enhance predictions, addressing the issue of imbalanced sampling is crucial. Implementing random oversampling significantly improves balanced accuracy and recall scores. By achieving a higher recall value, the model becomes more adept at accurately identifying risky loans.
+
+However, incorrect predictions pose two challenges. False positives occur when users are mistakenly flagged as risky despite being creditworthy, while false negatives arise when risky users go unnoticed. Both cases carry associated costs. Hence, it is imperative for the model to excel in accuracy for both 1s (risky loans) and 0s (healthy loans), ensuring comprehensive and reliable predictions.
