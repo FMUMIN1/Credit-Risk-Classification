@@ -8,6 +8,7 @@ Supervised Machine Learning Model:
 
 # RESULTS
 
+* Logistic Regression Model 1:
 * ![classification_report_1](https://github.com/FMUMIN1/Credit-Risk-Classification/assets/121820268/bd939872-094e-4232-ba33-7844d7d3c823)
 
 
